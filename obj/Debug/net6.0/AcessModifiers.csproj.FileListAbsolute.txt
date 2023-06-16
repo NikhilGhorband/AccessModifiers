@@ -1,0 +1,15 @@
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.csproj.AssemblyReference.cache
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.AssemblyInfoInputs.cache
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.AssemblyInfo.cs
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.csproj.CoreCompileInputs.cache
+D:\AcessModifiers\bin\Debug\net6.0\AcessModifiers.exe
+D:\AcessModifiers\bin\Debug\net6.0\AcessModifiers.deps.json
+D:\AcessModifiers\bin\Debug\net6.0\AcessModifiers.runtimeconfig.json
+D:\AcessModifiers\bin\Debug\net6.0\AcessModifiers.dll
+D:\AcessModifiers\bin\Debug\net6.0\AcessModifiers.pdb
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.dll
+D:\AcessModifiers\obj\Debug\net6.0\refint\AcessModifiers.dll
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.pdb
+D:\AcessModifiers\obj\Debug\net6.0\AcessModifiers.genruntimeconfig.cache
+D:\AcessModifiers\obj\Debug\net6.0\ref\AcessModifiers.dll
